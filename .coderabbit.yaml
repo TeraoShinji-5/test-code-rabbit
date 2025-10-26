@@ -106,7 +106,7 @@ chat:
 knowledge_base:
   # 過去のレビューから学習するか
   learnings:
-    scope: repository
+    scope: local
   
   # GitHubのissuesから学習するか
   issues:
